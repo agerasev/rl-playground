@@ -1,0 +1,7 @@
+[package]
+name = "rlpg-trainer"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rlpg-common.workspace = true
