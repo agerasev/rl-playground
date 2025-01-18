@@ -1,6 +1,0 @@
-[workspace]
-members = ["common", "trainer", "viewer"]
-resolver = "2"
-
-[workspace.dependencies]
-rlpg-common = { path = "common" }
